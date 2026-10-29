@@ -1,14 +1,14 @@
-# Domino ✨
+# Domino
 
 <p align="center">
   <img src="store-assets/logo-128.png" alt="Domino logo" width="128">
 </p>
 
-### 🎨 Give the page you're browsing a little design nudge.
+### Give the page you're browsing a little design nudge.
 
 Domino turns any webpage into a tiny CSS playground. Pick an element, tweak it, and watch your ideas land instantly - no stylesheet treasure hunt required.
 
-## 🪄 Play with the pixels
+## 🪄 Make it yours
 
 - 🖱️ Grab an element right from the page or find it in the DOM tree.
 - 🎨 Tinker with typography, color, spacing, layout, borders, and effects.
