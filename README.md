@@ -8,7 +8,7 @@
 
 Domino turns any webpage into a tiny CSS playground. Pick an element, tweak it, and watch your ideas land instantly - no stylesheet treasure hunt required.
 
-## 🎨 Make it yours
+## 🪄 Play with the pixels
 
 - 🖱️ Grab an element right from the page or find it in the DOM tree.
 - 🎨 Tinker with typography, color, spacing, layout, borders, and effects.
