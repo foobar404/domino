@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Domino",
+  "version": "0.1.0",
+  "description": "A floating toolbox for making quick, live design changes to webpages.",
+  "minimum_chrome_version": "111",
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite",
+    "debugger"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle Domino toolbox",
+    "default_icon": {
+      "16": "logo.png",
+      "32": "logo.png"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["logo.png", "fonts/Roboto-Variable.ttf"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

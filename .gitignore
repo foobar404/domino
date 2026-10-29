@@ -1,0 +1,11 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local dependencies and generated logs
+node_modules/
+*.log
+
+# Packaged extension archives
+*.zip
